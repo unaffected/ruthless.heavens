@@ -102,7 +102,7 @@ There are four primary loss conditions:
 
 - Another player is declared winner.
 - Death: Your health reaches 0.
-- Comatose: Your manage reaches 0.
+- Comatose: Your mana reaches 0.
 - Hollow: Your essence reaches 0.
 
 Additionally, there are many secondary loss conditions that may come into effect under a variety of situations, such as when specific cards are played or specific events are revealed during the Heaven's Whim event phase.
