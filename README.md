@@ -20,7 +20,7 @@ One cycle of all six main phases is referred to as a round.
 
 Players progress through the phases of each round together, taking action simultaneously. 
 
-Gameplay continues this way until either a one or more winners have been declared or until all players have been declared losers.
+Gameplay continues this way until either one or more winners have been declared, or until all players have been declared losers.
 
 ## Setup
 
