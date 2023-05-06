@@ -105,4 +105,4 @@ There are four primary loss conditions:
 - Comatose: Your manage reaches 0.
 - Hollow: Your essence reaches 0.
 
-Additionally, there are many secondary win conditions that may come into effect under a variety of situations, such as when specific cards are played or specific events are revealed during the Heaven's Whim event phase.
+Additionally, there are many secondary loss conditions that may come into effect under a variety of situations, such as when specific cards are played or specific events are revealed during the Heaven's Whim event phase.
