@@ -44,7 +44,7 @@ Each player starts the game with the following:
 ### Phase Two: Draw
 
 1. Discard any number of cards.
-2. Draw cards until you reach your maximum hand size.
+2. Draw cards until your handsize is equal to your fate.
 
 ### Phase Three: Event (The Heavens’ Whim)
 
@@ -61,6 +61,7 @@ In **any** order, complete **any** number of the following actions:
 - Refresh the market: 2 resources of any type
 - Purchase current market card. *(refreshes the market)*
 - Unlock a talent from a skill tree.
+- Discard a card for 1 resource.
 - Use a development action.
 - Use a quick action.
 - Use an item.
@@ -74,7 +75,8 @@ In **any** order, complete **any** number of the following actions:
 
 ### Phase Six: Resolution
 
-Resolve all prepared combat actions.
+1. Resolve all prepared combat actions.
+2. Discard cards until your handsize is equal to your fate.
 
 ## Winning
 
