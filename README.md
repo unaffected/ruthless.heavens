@@ -65,8 +65,8 @@ In **any** order, complete **any** number of the following actions:
 
 - Refresh the market: 1 resource of the specified type *(random on refresh*)
 - Refresh the market: 2 resources of any type
-- Purchase current market card. *(refreshes the market)*
-- Unlock a talent from a skill tree.
+- Spend resources (health/mana/essence) to purchase the current market card. *(also refreshes the market)*
+- Spend resources (health/mana/essence) to unlock a talent from a skill tree.
   - acquire a new action card
   - unlock a new perk or power
   - upgrade existing perk, power, card
@@ -89,11 +89,20 @@ In **any** order, complete **any** number of the following actions:
 
 ## Winning
 
-There are four primary win conditions available to every player, every game. 
+There are four primary win conditions:
 
 - All other players have been declared losers.
 - Immortality: Reach the peak of power via the body path
 - Omniscient: Reach the peak of power via the mind path.
 - Transcendent: Reach the peak of power via the soul path.
+
+## Losing
+
+There are four primary loss conditions:
+
+- Another player is declared winner.
+- Death: Your health reaches 0.
+- Comatose: Your manage reaches 0.
+- Hollow: Your essence reaches 0.
 
 Additionally, there are many secondary win conditions that may come into effect under a variety of situations, such as when specific cards are played or specific events are revealed during the Heaven's Whim event phase.
