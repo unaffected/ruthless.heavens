@@ -96,4 +96,4 @@ There are four primary win conditions available to every player, every game.
 - Omniscient: Reach the peak of power via the mind path.
 - Transcendent: Reach the peak of power via the soul path.
 
-Additionally, there are many secondary win conditions that may come into effect under a variety of situations, such as specific cards are played or acquired.
+Additionally, there are many secondary win conditions that may come into effect under a variety of situations, such as when specific cards are played or specific events are revealed during the Heaven's Whim event phase.
