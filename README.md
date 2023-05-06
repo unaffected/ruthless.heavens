@@ -32,6 +32,8 @@ Each player starts the game with the following:
 - **focus**: 1
 - **devotion**: 1
 
+- ~10x cards tbd
+
 ## Phases
 
 ### Phase One: Upkeep
