@@ -1,10 +1,10 @@
 # Ruthless Heavens
 
-If you could have power, would you take it, what would you give, and to what end?  
+If you could have power, would you take it? What would you give? To what end?
 
-Ruthless Heavens is fast-paced, competitive deck-building game. Set in the brutal fantasy world of Einai where the very fabric of existence is defined by the unyielding pursuit of power, all know woe, and even the heavens are ruthless.
+Ruthless Heavens is fast-paced, competitive deck-building game. Set in the brutal fantasy world of Einai where the very fabric of existence is defined by the unyielding pursuit of power. All know woe and even the heavens are ruthless.
 
-Most who pursue the peaks power join the countless fools and cowards whose corpses litter the base, and even those barely up the slopes quickly realize power is a merciless master.
+Most who pursue the peaks of power join the countless fools and cowards whose corpses litter the base, and even those barely up the slopes quickly realize power is a merciless master.
 
 There are countless paths to the summit, but they’re all long and treacherous. Every step a twist. Every twist a decision. Every decision a risk. Tread lightly and choose wisely. Be bold and seize opportunity. Spite the heavens and the claim the peaks.
 
