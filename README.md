@@ -67,6 +67,9 @@ In **any** order, complete **any** number of the following actions:
 - Refresh the market: 2 resources of any type
 - Purchase current market card. *(refreshes the market)*
 - Unlock a talent from a skill tree.
+  - acquire a new action card
+  - unlock a new perk or power
+  - upgrade existing perk, power, card
 - Discard a card for 1 resource.
 - Use a development action.
 - Use a quick action.
