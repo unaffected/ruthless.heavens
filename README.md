@@ -96,7 +96,7 @@ In **any** order, complete **any** number of the following actions:
 2. Move all resolved action cards to their respective owners' discard piles.
 3. If your current handsize is greater than your fate, discard cards until your handsize is equal to your fate.
 
-## Winning
+## Winning & Losing
 
 There are four primary win conditions:
 
@@ -105,18 +105,14 @@ There are four primary win conditions:
 - **Omniscience**: Reach the peak of power via the mind skill tree.
 - **Transcendence**: Reach the peak of power via the soul skill tree.
 
-Additionally, there are secondary win conditions that may come into play in a variety of situations, such as when specific cards are played or when specific events are revealed during the event phase.
-
-## Losing
-
-There are four primary loss conditions:
+There are also four primary loss conditions:
 
 - Another player is declared winner.
 - **Death**: Your health reaches 0.
 - **Comatose**: Your mana reaches 0.
 - **Hollow**: Your essence reaches 0.
 
-Additionally, there are secondary loss conditions that may come into play in a variety of situations, such as when specific cards are played or when specific events are revealed during the event phase.
+Additionally, there are both secondary win and loss conditions that may come into play in a variety of situations, such as when specific cards are played or when specific events are revealed during the event phase.
 
 ## Market
 
