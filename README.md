@@ -71,17 +71,17 @@ Reveal and resolve a *(Heavens’ Whim)* event card.
 
 In **any** order, complete **any** number of the following actions:
 
-- Refresh the market: 1 resource of the specified type *(determined randomly each refresh)*
+- Refresh the market: 1 resource of the specified type *(determined randomly after each refresh)*
 - Refresh the market: 2 resources of **any** type
 - Spend resources (health/mana/essence) to purchase the current market card. *(also refreshes the market)*
 - Spend resources (health/mana/essence) to unlock a talent from a skill tree (mind/body/soul).
-  - acquire a new action card
+  - acquire a new ability card
   - unlock a new perk or power
   - upgrade existing perk, power, ability
 - Discard a card to gain 1 resource matching the type of the discarded card.
 - Use a development action.
 - Use a quick action.
-- Use an item.
+- Use, equip or unequip an item.
 
 ### Phase Five: Combat
 
@@ -92,7 +92,7 @@ In **any** order, complete **any** number of the following actions:
 
 ### Phase Six: Resolution
 
-1. All prepared actions are resolved based their speed.
+1. All prepared actions are resolved based on their speed.
 2. Move all resolved action cards to their respective owners' discard piles.
 3. If your current handsize is greater than your fate, discard cards until your handsize is equal to your fate.
 
@@ -121,8 +121,8 @@ Additionally, there are secondary loss conditions that may come into play in a v
 ## Market
 
 - Each player has access to their own randomize "market deck" that contains item cards: consumables, equipment, material.
-- At the beginning of the game, the top card of each market deck is revealed.
-- During the development phase, you may spend resources to acquire the revealed market card.
+- At the beginning of the game, the top card of each player's market deck is revealed.
+- During the development phase, you may pay the cost of and acquire the revealed market card.
 - You may spend 2 resources of any type to replace the current market card with a new card from the top of the market deck.
 - Each time the market deck is refreshed, a random resource type is selected and you may refresh the market for a single resource of that type.
 
@@ -144,7 +144,7 @@ Additionally, there are secondary loss conditions that may come into play in a v
 - Skill tree nodes have differing unlock requirements.
 - Generally, you'll spend resources after satisfying some prerequisite(s).
 - Unlocking a skill tree talent may grant new ability cards, upgrade existing ability cards, grant new powers/perks, and more.
-- The skill trees will provide your primary source of progression.
+- The skill trees will be your primary source of progression.
 
 ## Formats / Game Modes
 
@@ -157,7 +157,8 @@ Additionally, there are secondary loss conditions that may come into play in a v
 - newly acquired actions go to your discard pile.
 - newly acquired powers and perks go into effect immediately.
 - newly acquired items go to your inventory deck.
-- you make access your inventory deck at anytime.
-- unless they offer quick actions, you may only use/equip items during the development phase.
-- if you should draw and you cannot, shuffle your discard and add it to your draw pile.
+- you make access your discard and inventory decks at anytime.
+- you may not look at or shuffle your draw pile unless instructed to do so.
+- unless they offer quick actions, you may only use/equip/unequip items during the development phase.
+- if you should draw and you cannot, shuffle your discard and add it to your draw pile and then draw.
 - if you still cannot draw, you must move forward without drawing.
