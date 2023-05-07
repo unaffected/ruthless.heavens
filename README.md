@@ -58,7 +58,7 @@ Each player starts the game with the following:
 ### Phase Two: Draw
 
 1. Discard any number of cards.
-2. If your current handsize is less than your fate, you may cards until your handsize is equal to your fate.
+2. If your current handsize is less than your fate, you may draw cards until your handsize is equal to your fate.
 
 ### Phase Three: Event (Heavens’ Whim)
 
