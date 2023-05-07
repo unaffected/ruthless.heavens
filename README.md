@@ -14,8 +14,6 @@ Tread lightly and choose wisely, but be bold and seize opportunity. There's no r
 
 # Gameplay
 
-## Core Loop
-
 The core gameplay loop is split into six main phases: upkeep, draw, event, development, combat, and resolution. 
 
 One cycle of all six main phases is referred to as a round. 
