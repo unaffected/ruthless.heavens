@@ -87,13 +87,13 @@ In **any** order, complete **any** number of the following actions:
 
 1. Players are paired up based on a matching algorithm.
 2. In **any** order, complete **any** number of the following actions:
-    - Prepare or unprepare a combat action. (lose/gain action's resource cost)
+    - Prepare or unprepare a combat action. (lose/gain the action's resource cost)
     - Use a quick action.
 
 ### Phase Six: Resolution
 
 1. All prepared actions are resolved based their speed.
-2. Move all resolved actions cards to their respective owners discard piles.
+2. Move all resolved action cards to their respective owners' discard piles.
 3. If your current handsize is greater than your fate, discard cards until your handsize is equal to your fate.
 
 ## Winning
