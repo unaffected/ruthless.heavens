@@ -172,3 +172,71 @@ Additionally, there are both secondary win and loss conditions that may come int
 - unless they offer quick actions, you may only use/equip/unequip items during the development phase.
 - if you should draw and you cannot, shuffle your discard and add it to your draw pile and then draw.
 - if you still cannot draw, you must move forward without drawing.
+
+---
+
+# Example Cards
+
+*Note: acquistion and activation costs have been left off of most of these examples.*
+
+## Talents
+
+### Ability
+
+  - **name**: Foretell
+  - **type**: ability - mind
+  - **rank 1**: put the next ability you acquire this turn on top of your draw pile.
+
+### Perk
+
+  - **name**: Divination
+  - **type**: perk - mind
+  - **rank 1**: whenever you trigger Foretell, add the ability to your hand instead.
+
+### Power
+
+  - **name**: Insight
+  - **type**: power - mind
+  - **rank 1**: you may look at the top card of your draw pile at any time. 
+
+## Items
+
+### Equipment
+
+  - **name**: Twin Blades
+  - **type**: item - equipment - primary
+  - **equip**: acquire 3 copies of “Double Slash”.
+  - **unequip**: relinquish 3 copies of “Double Slash”.
+
+### Consumable
+
+  - **name**: Berserking Mushroom
+  - **type**: item - consumable
+  - **use**: Gain +4 vitality for the next 3 rounds. While active, you may only use body aspected abilities.
+
+### Artifact
+
+  - **name**: Einai's Gambit
+  - **type**: item - artifact
+  - **activation cost:** 1 fate
+  - **use**:  Gain +3 fate until the beginning of the next upkeep.
+
+## Event
+
+### Standard
+
+- **name**: The Wise Man's Weakness
+- **effect**: If you have 20 or more mana, lose 6 health.
+
+### Quest
+
+- **name**: Call to Arms
+- **type**: event - quest
+- **requirement**: gain 5 health and deal 5 damage in a single round.
+- **reward:** gain +1 vitality
+
+### Omen
+
+- **name**: A Legends Rises
+- **trigger**: on the 3rd upkeep after reveal
+- **effect**: unlock 1 talent without paying its acquisition cost. *(you must still satisfy all other requirements)*
