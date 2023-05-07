@@ -45,9 +45,9 @@ Resources are used to acquire and activate abilities, perks, powers, and items.
 
 Once per round, during the upkeep phase, you'll gain resources corresponding to your generators.
 
-- **vitality**: 1
-- **focus**: 1
-- **spirit**: 1
+- **vitality**: 1 *(+health)*
+- **focus**: 1 *(+mana)*
+- **spirit**: 1 *(+essence)*
 
 **Abilities**
 
