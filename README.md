@@ -104,6 +104,8 @@ There are four primary win conditions:
 - Omniscient: Reach the peak of power via the mind skill tree.
 - Transcendent: Reach the peak of power via the soul skill tree.
 
+Additionally, there are secondary win conditions that may come into play in a variety of situations, such as when specific cards are played or specific events are revealed during the event phase.
+
 ## Losing
 
 There are four primary loss conditions:
@@ -113,7 +115,7 @@ There are four primary loss conditions:
 - Comatose: Your mana reaches 0.
 - Hollow: Your essence reaches 0.
 
-Additionally, there are many secondary loss conditions that may come into effect under a variety of situations, such as when specific cards are played or specific events are revealed during the Heaven's Whim event phase.
+Additionally, there are secondary loss conditions that may come into play in a variety of situations, such as when specific cards are played or specific events are revealed during the event phase.
 
 # Notes
 
