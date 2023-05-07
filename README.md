@@ -132,7 +132,7 @@ Additionally, there are secondary loss conditions that may come into play in a v
 - On odd numbered rounds, each player will receive thier own unique event card.
 - On even numbered rounds, a single event card will be revealed and affect all players.
 - Events can be positive, negative, neutral, or conditional.
-- Additionally, some special events such as "Quests" and "Omens" may remain in effect for multiple rounds.
+- Additionally, some special events such as "Quests" and "Omens", may remain in effect for multiple rounds.
 - "Quests" last until their requirements are met.
 - "Omens" are effectively "delayed events". You see what's going to happen, but it doesn't happen immediately.
 
