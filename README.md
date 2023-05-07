@@ -32,20 +32,27 @@ Gameplay continues this way until either one or more winners have been declared,
 
 Each player starts the game with the following:
 
-**resources**:
+**Resources**
+
+Resources are used to acquire and activate abilities, perks, powers, and items.
 
 - **fate**: 5
 - **health**: 5
 - **mana**: 5
 - **essence**: 5
 
-**generators**:
+**Generators**
+
+Once per round, during the upkeep phase, you'll gain resources corresponding to your generators.
 
 - **vitality**: 1
 - **focus**: 1
 - **spirit**: 1
 
-**ability cards**:
+**Abilities**
+
+Abilities are cards with unique effects that you can use during various phases of gameplay.
+
 - 3x body cards (tbd)
 - 3x mind cards (tbd)
 - 3x soul cards (tbd)
