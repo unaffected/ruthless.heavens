@@ -10,7 +10,7 @@ If you could seize power, would you take it? What price would you pay? To what e
 
 Ruthless Heavens is a fast-paced, competitive deck-building game in which players strive to reach the peaks of power. 
 
-Set in a brutal fantasy world where the very fabric of existence is defined by its denizens relentless pursuit for power. Here, all know woe, and even the heavens are ruthless.
+Set in a brutal fantasy world where the very fabric of existence is defined by its denizens relentless pursuit for power. Here, all know woe and even the heavens are ruthless.
 
 There are countless paths to the summit, all treacherous. Every decision a gamble. Every gamble, life or death.
 
