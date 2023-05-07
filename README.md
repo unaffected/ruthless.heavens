@@ -71,13 +71,13 @@ Reveal and resolve a *(Heavens’ Whim)* event card.
 
 In **any** order, complete **any** number of the following actions:
 
-- Refresh the market: 1 resource of the specified type *(random on refresh*)
-- Refresh the market: 2 resources of any type
+- Refresh the market: 1 resource of the specified type *(determined randomly each refresh)*
+- Refresh the market: 2 resources of **any** type
 - Spend resources (health/mana/essence) to purchase the current market card. *(also refreshes the market)*
 - Spend resources (health/mana/essence) to unlock a talent from a skill tree (mind/body/soul).
   - acquire a new action card
   - unlock a new perk or power
-  - upgrade existing perk, power, card
+  - upgrade existing perk, power, ability
 - Discard a card for 1 resource.
 - Use a development action.
 - Use a quick action.
