@@ -102,8 +102,8 @@ There are four primary win conditions:
 
 - All other players have been declared losers.
 - **Immortality**: Reach the peak of power via the body skill tree.
-- **Omniscient**: Reach the peak of power via the mind skill tree.
-- **Transcendent**: Reach the peak of power via the soul skill tree.
+- **Omniscience**: Reach the peak of power via the mind skill tree.
+- **Transcendence**: Reach the peak of power via the soul skill tree.
 
 Additionally, there are secondary win conditions that may come into play in a variety of situations, such as when specific cards are played or when specific events are revealed during the event phase.
 
