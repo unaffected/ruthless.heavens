@@ -78,7 +78,7 @@ In **any** order, complete **any** number of the following actions:
   - acquire a new action card
   - unlock a new perk or power
   - upgrade existing perk, power, ability
-- Discard a card for 1 resource matching the type of the discarded card.
+- Discard a card to gain 1 resource matching the type of the discarded card.
 - Use a development action.
 - Use a quick action.
 - Use an item.
