@@ -159,7 +159,7 @@ Additionally, there are both secondary win and loss conditions that may come int
 - newly acquired actions go to your discard pile.
 - newly acquired powers and perks go into effect immediately.
 - newly acquired items go to your inventory deck.
-- you make access your discard and inventory decks at anytime.
+- you may access your discard and inventory decks at anytime.
 - you may not look at or shuffle your draw pile unless instructed to do so.
 - unless they offer quick actions, you may only use/equip/unequip items during the development phase.
 - if you should draw and you cannot, shuffle your discard and add it to your draw pile and then draw.
