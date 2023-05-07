@@ -2,8 +2,10 @@
 
 > Design by Cody Mercer (greatgrievance@unaffectedstudios.com)
 >
-> Anonymous Google Forms Feedback Questionnaire: https://forms.gle/d9j3ELD1gsQ9XX128
-
+> Feedback Questionnaire: https://forms.gle/d9j3ELD1gsQ9XX128
+>
+> Newsletter Signup: https://forms.gle/BYsGU6TUo2v6nySy5
+                                                 
 If you could seize power, would you take it? What price would you pay? To what end would you go?
 
 Ruthless Heavens is a fast-paced, competitive deck-building game in which players strive to reach the peaks of power. 
