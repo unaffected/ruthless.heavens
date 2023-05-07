@@ -150,7 +150,7 @@ Additionally, there are secondary loss conditions that may come into play in a v
 
 - Duel: 2 players
 - Arena: 8 players
-- Battlegrounds: 40-100 players
+- Battleground: 40-100 players
 
 # Notes
 
