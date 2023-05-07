@@ -1,7 +1,8 @@
 # Ruthless Heavens
 
 > Design by Cody Mercer (greatgrievance@unaffectedstudios.com)
-> Google Forms Anonymous Feedback Questionnaire: https://forms.gle/d9j3ELD1gsQ9XX128
+>
+> Anonymous Google Forms Feedback Questionnaire: https://forms.gle/d9j3ELD1gsQ9XX128
 
 If you could have power, would you take it? What would you give? To what end?
 
