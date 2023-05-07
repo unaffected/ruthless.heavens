@@ -154,9 +154,10 @@ Additionally, there are secondary loss conditions that may come into play in a v
 
 # Notes
 
-- newly acquired actions go to your discard pile
-- newly acquired powers and perks go into effect immediately
-- newly acquired items go to your inventory deck
-- you make access your inventory deck at anytime
+- newly acquired actions go to your discard pile.
+- newly acquired powers and perks go into effect immediately.
+- newly acquired items go to your inventory deck.
+- you make access your inventory deck at anytime.
+- unless they offer quick actions, you may only use/equip items during the development phase.
 - if you should draw and you cannot, shuffle your discard and add it to your draw pile.
-- if you still cannot draw, you must move forward without drawing
+- if you still cannot draw, you must move forward without drawing.
