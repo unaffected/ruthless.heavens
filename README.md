@@ -77,8 +77,8 @@ In **any** order, complete **any** number of the following actions:
 
 - Refresh the market: 1 resource of the specified type *(determined randomly after each refresh)*
 - Refresh the market: 2 resources of **any** type
-- Spend resources *(health/mana/essence)* to purchase the current market card. *(also refreshes the market)*
-- Spend resources *(health/mana/essence)* to unlock a talent from a skill tree *(mind/body/soul)*.
+- Spend resources *(fate/health/mana/essence)* to purchase the current market card. *(also refreshes the market)*
+- Spend resources *(fate/health/mana/essence)* to unlock a talent from a skill tree *(body/mind/soul)*.
   - acquire a new ability card
   - unlock a new perk or power
   - upgrade existing perk, power, ability
