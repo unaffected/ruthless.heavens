@@ -6,9 +6,9 @@ Ruthless Heavens is a fast-paced, competitive deck-building game in which player
 
 Set in a brutal fantasy world where the very fabric of existence is defined by its denizens relentless pursuit for power. Here, all know woe, and even the heavens are ruthless.
 
-Most who pursue the summit join the countless fools and cowards whose corpses litter its base, and even those just barely up its slopes quickly realize power is a merciless master.
-
 There are countless paths to the summit, all treacherous. Every decision a gamble. Every gamble life or death.
+
+Be warned, most who pursue the summit end up joining the countless fools and cowards whose corpses litter its base, and all those that brave its slopes quickly realize power is a merciless master.
 
 Tread lightly and choose wisely, but be bold and seize opportunity. There's no room at the summit for the meek. Spite the heavens and the claim the peaks.
 
