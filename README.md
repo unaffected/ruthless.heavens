@@ -148,9 +148,9 @@ Additionally, there are secondary loss conditions that may come into play in a v
 
 ## Formats / Game Modes
 
-- Duel: 2 players
-- Arena: 8 players
-- Battleground: 40-100 players
+- Duel: 2 players (1st balance priority)
+- Arena: 8 players (2nd balance priority)
+- Battleground: 40-100 players (3rd balance priority)
 
 # Notes
 
