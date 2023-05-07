@@ -140,7 +140,7 @@ Additionally, there are secondary loss conditions that may come into play in a v
 
 - There are 3 static skill trees: Body, Mind, Soul
 - Each skill tree has several branching paths.
-- At the end of the each skill tree is a game winning talent, unlock it for an instant win.
+- At the end of each skill tree is a game winning talent, unlock it for an instant win.
 - Skill tree nodes have differing unlock requirements.
 - Generally, you'll spend resources after satisfying some prerequisite(s).
 - Unlocking a skill tree talent may grant new ability cards, upgrade existing ability cards, grant new powers/perks, and more.
