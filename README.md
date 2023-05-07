@@ -101,9 +101,9 @@ In **any** order, complete **any** number of the following actions:
 There are four primary win conditions:
 
 - All other players have been declared losers.
-- Immortality: Reach the peak of power via the body skill tree.
-- Omniscient: Reach the peak of power via the mind skill tree.
-- Transcendent: Reach the peak of power via the soul skill tree.
+- **Immortality**: Reach the peak of power via the body skill tree.
+- **Omniscient**: Reach the peak of power via the mind skill tree.
+- **Transcendent**: Reach the peak of power via the soul skill tree.
 
 Additionally, there are secondary win conditions that may come into play in a variety of situations, such as when specific cards are played or when specific events are revealed during the event phase.
 
@@ -112,9 +112,9 @@ Additionally, there are secondary win conditions that may come into play in a va
 There are four primary loss conditions:
 
 - Another player is declared winner.
-- Death: Your health reaches 0.
-- Comatose: Your mana reaches 0.
-- Hollow: Your essence reaches 0.
+- **Death**: Your health reaches 0.
+- **Comatose**: Your mana reaches 0.
+- **Hollow**: Your essence reaches 0.
 
 Additionally, there are secondary loss conditions that may come into play in a variety of situations, such as when specific cards are played or when specific events are revealed during the event phase.
 
@@ -148,9 +148,9 @@ Additionally, there are secondary loss conditions that may come into play in a v
 
 ## Formats / Game Modes
 
-- Duel: 2 players *(1st balance priority)*
-- Arena: 8 players *(2nd balance priority)*
-- Battleground: 40-100 players *(3rd balance priority)*
+- **Duel**: 2 players *(1st balance priority)*
+- **Arena**: 8 players *(2nd balance priority)*
+- **Battleground**: 40-100 players *(3rd balance priority)*
 
 # Notes
 
