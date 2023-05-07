@@ -100,9 +100,9 @@ In **any** order, complete **any** number of the following actions:
 There are four primary win conditions:
 
 - All other players have been declared losers.
-- Immortality: Reach the peak of power via the body path
-- Omniscient: Reach the peak of power via the mind path.
-- Transcendent: Reach the peak of power via the soul path.
+- Immortality: Reach the peak of power via the body skill tree.
+- Omniscient: Reach the peak of power via the mind skill tree.
+- Transcendent: Reach the peak of power via the soul skill tree.
 
 ## Losing
 
