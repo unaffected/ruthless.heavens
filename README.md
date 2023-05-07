@@ -121,7 +121,9 @@ Additionally, there are secondary loss conditions that may come into play in a v
 
 - Each player has access to their own randomize "market deck" that contains item cards: consumables, equipment, material.
 - At the beginning of the game, the top card of each market deck is revealed.
-- During the development phase, you may spend resources to replace the market card with a new card from the top of the market deck.
+- During the development phase, you may spend resources to acquire the revealed market card of the market deck.
+- You may also spend 2 resources of anytime to replace the market card with a new card from the top of the market deck.
+- At the beginning of the game and after each market refresh, a random resource type is selcted and you may refresh the shop by paying that resource type.
 
 ## Heavens' Whim
 
