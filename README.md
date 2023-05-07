@@ -93,7 +93,8 @@ In **any** order, complete **any** number of the following actions:
 ### Phase Six: Resolution
 
 1. All prepared actions are resolved based their speed.
-2. If your current handsize is greater than your fate, discard cards until your handsize is equal to your fate.
+2. Move all resolved actions cards to their respective owners discard piles.
+3. If your current handsize is greater than your fate, discard cards until your handsize is equal to your fate.
 
 ## Winning
 
