@@ -128,8 +128,8 @@ Additionally, there are secondary loss conditions that may come into play in a v
 ## Heavens' Whim
 
 - Once per round, during the event phase, a "Heavens' Whim event card" will be revealed.
-- On odd numbered rounds, each player will receive a unique event card.
-- On even numbered rounds, a single event card will be revealed for all players.
+- On odd numbered rounds, each player will receive thier own unique event card.
+- On even numbered rounds, a single event card will be revealed and effect all players.
 - Events can be positive, negative, neutral, or conditional.
 - Additionally, some special events such as "Quests" and "Omens" may remain in effect for multiple rounds.
 - "Quests" last until their requirements are met.
