@@ -122,7 +122,7 @@ Additionally, there are both secondary win and loss conditions that may come int
 
 ## Market
 
-- Each player has access to their own randomize "market deck" that contains item cards of the following types: consumable, equipment, artifact.
+- Each player has access to their own randomized "market deck" that contains item cards of the following types: consumable, equipment, artifact.
 - At the beginning of the game, the top card of each player's market deck is revealed.
 - During the development phase, you may pay the cost of and acquire the revealed market card.
 - You may spend 2 resources of any type to replace the current market card with a new card from the top of the market deck.
