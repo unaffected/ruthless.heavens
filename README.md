@@ -119,29 +119,29 @@ Additionally, there are secondary loss conditions that may come into play in a v
 
 ## Market
 
-Each player has access to their own randomize "market deck" that contains item cards: consumables, equipment, material
-At the beginning of the game, the top card of each market deck is revealed.
-During the development phase, you may spend resources to replace the market card with a new card from the top of the market deck.
+- Each player has access to their own randomize "market deck" that contains item cards: consumables, equipment, material.
+- At the beginning of the game, the top card of each market deck is revealed.
+- During the development phase, you may spend resources to replace the market card with a new card from the top of the market deck.
 
 ## Heavens' Whim
 
-Once per round, during the event phase, a "Heavens' Whim event card" will be revealed.
-On odd numbered rounds, each player will receive a unique event card.
-On even numbered rounds, a single event card will be revealed for all players.
-Events can be positive, negative, neutral, or conditional.
-Additionally, some special events such as "Quests" and "Omens" may remain in effect for multiple rounds.
-"Quests" last until their requirements are met.
-"Omens" are effectively "delayed events". You see what's going to happen, but it doesn't happen immediately.
+- Once per round, during the event phase, a "Heavens' Whim event card" will be revealed.
+- On odd numbered rounds, each player will receive a unique event card.
+- On even numbered rounds, a single event card will be revealed for all players.
+- Events can be positive, negative, neutral, or conditional.
+- Additionally, some special events such as "Quests" and "Omens" may remain in effect for multiple rounds.
+- "Quests" last until their requirements are met.
+- "Omens" are effectively "delayed events". You see what's going to happen, but it doesn't happen immediately.
 
 ## Skill Trees
 
-There are 3 static skill trees: Body, Mind, Soul
-Each skill tree has several branching paths.
-At the end of the each skill tree is a game winning talent, unlock it for an instant win.
-Varies skill tree nodes have differing unlock requirements.
-Generally, you'll spend resources after meeting some prerequisite.
-Talent grant new ability cards, upgrade existing ability cards, grant new powers/perks, and more.
-The skill trees will provide primary source of progression.
+- There are 3 static skill trees: Body, Mind, Soul
+- Each skill tree has several branching paths.
+- At the end of the each skill tree is a game winning talent, unlock it for an instant win.
+- Varies skill tree nodes have differing unlock requirements.
+- Generally, you'll spend resources after meeting some prerequisite.
+- Talent grant new ability cards, upgrade existing ability cards, grant new powers/perks, and more.
+- The skill trees will provide primary source of progression.
 
 # Notes
 
