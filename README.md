@@ -87,7 +87,7 @@ In **any** order, complete **any** number of the following actions:
 
 1. Players are paired up based on a matching algorithm.
 2. In **any** order, complete **any** number of the following actions:
-    - Prepare or unprepare a combat action.
+    - Prepare or unprepare a combat action. (lose/gain action's resource cost)
     - Use a quick action.
 
 ### Phase Six: Resolution
