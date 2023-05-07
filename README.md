@@ -60,7 +60,7 @@ Each player starts the game with the following:
 1. Discard any number of cards.
 2. Draw cards until your handsize is equal to your fate.
 
-### Phase Three: Event (The Heavens’ Whim)
+### Phase Three: Event (Heavens’ Whim)
 
 Reveal and resolve a *(Heavens’ Whim)* event card.
 
