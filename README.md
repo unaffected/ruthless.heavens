@@ -160,6 +160,7 @@ Additionally, there are both secondary win and loss conditions that may come int
 - **Duel**: 2 players *(1st balance priority)*
 - **Arena**: 8 players *(2nd balance priority)*
 - **Battleground**: 40-100 players *(3rd balance priority)*
+- **Brawl**: play by your own rules. use built-in tools to create custom cards and adjust various gameplay parameters.
 
 # Notes
 
