@@ -146,6 +146,12 @@ Additionally, there are secondary loss conditions that may come into play in a v
 - Unlocking a skill tree talent may grant new ability cards, upgrade existing ability cards, grant new powers/perks, and more.
 - The skill trees will provide your primary source of progression.
 
+## Formats / Game Modes
+
+- Duel: 2 players
+- Area: 8 players
+- Battlegrounds: 40-100 players
+
 # Notes
 
 - newly acquired actions go to your discard pile
@@ -154,8 +160,3 @@ Additionally, there are secondary loss conditions that may come into play in a v
 - you make access your inventory deck at anytime
 - if you should draw and you cannot, shuffle your discard and add it to your draw pile.
 - if you still cannot draw, you must move forward without drawing
-- gameplay is for 2+ players
-- balancing around the following player counts:
-  - 2 player (duel)
-  - 8 player (arena)
-  - 100 player (battleground)
