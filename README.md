@@ -149,7 +149,7 @@ Additionally, there are secondary loss conditions that may come into play in a v
 ## Formats / Game Modes
 
 - Duel: 2 players
-- Area: 8 players
+- Arena: 8 players
 - Battlegrounds: 40-100 players
 
 # Notes
