@@ -43,7 +43,7 @@ Each player starts the game with the following:
 
 - **vitality**: 1
 - **focus**: 1
-- **devotion**: 1
+- **spirit**: 1
 
 **ability cards**:
 - 3x body cards (tbd)
@@ -57,7 +57,7 @@ Each player starts the game with the following:
 1. Gain upkeep resources
     - Gain +1 health for each vitality.
     - Gain +1 mana for each focus.
-    - Gain +1 essence for each devotion.
+    - Gain +1 essence for each spirit.
 2. Resolve all upkeep effects.
 3. Use any number of quick actions.
 
