@@ -115,10 +115,10 @@ There are four primary loss conditions:
 
 Additionally, there are many secondary loss conditions that may come into effect under a variety of situations, such as when specific cards are played or specific events are revealed during the Heaven's Whim event phase.
 
-# Aside
+# Notes
 
 - gameplay is for 2+ players
-- balancing around the following gameplay modes:
+- balancing around the following player counts:
   - 2 player (duel)
   - 8 player (arena)
   - 100 player (battleground)
