@@ -14,7 +14,9 @@ Tread lightly and choose wisely, but be bold and seize opportunity. There's no r
 
 # Gameplay
 
-The core gameplay loop is split into six main phases: draw, upkeep, event, development, combat, and resolution. 
+## Core Loop
+
+The core gameplay loop is split into six main phases: upkeep, draw, event, development, combat, and resolution. 
 
 One cycle of all six main phases is referred to as a round. 
 
@@ -44,6 +46,12 @@ Each player starts the game with the following:
 - 3x mind cards (tbd)
 - 3x soul cards (tbd)
 
+## Market
+
+Each player has access to their own randomize "market deck" that contains item cards: consumables, equipment, material
+At the beginning of the game, the top card of each market deck is revealed.
+During the development phase, you may spend resources to replace the market card with a new card from the top of the market deck.
+
 ## Phases
 
 ### Phase One: Upkeep
@@ -58,7 +66,7 @@ Each player starts the game with the following:
 ### Phase Two: Draw
 
 1. Discard any number of cards.
-2. Draw cards until your handsize is equal to your fate.
+2. If your current handsize is less than your fate, you may cards until your handsize is equal to your fate.
 
 ### Phase Three: Event (Heavens’ Whim)
 
@@ -92,8 +100,8 @@ In **any** order, complete **any** number of the following actions:
 
 ### Phase Six: Resolution
 
-1. Resolve all prepared combat actions.
-2. Discard cards until your handsize is equal to your fate.
+1. All prepared actions are resolved based their speed.
+2. If your current handsize is greater than your fate, discard cards until your handsize is equal to your fate.
 
 ## Winning
 
@@ -119,6 +127,12 @@ Additionally, there are secondary loss conditions that may come into play in a v
 
 # Notes
 
+- newly acquired actions go to your discard pile
+- newly acquired powers and perks go into effect immediately
+- newly acquired items go to your inventory deck
+- you make access your inventory deck at anytime
+- if you should draw and you cannot, shuffle your discard and add it to your draw pile.
+- if you still cannot draw, you must move forward without drawing
 - gameplay is for 2+ players
 - balancing around the following player counts:
   - 2 player (duel)
