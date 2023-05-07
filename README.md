@@ -26,15 +26,23 @@ Gameplay continues this way until either one or more winners have been declared,
 
 Each player starts the game with the following:
 
+**resources**:
+
 - **fate**: 5
 - **health**: 5
 - **mana**: 5
 - **essence**: 5
+
+**generators**:
+
 - **vitality**: 1
 - **focus**: 1
 - **devotion**: 1
 
-- ~10x cards tbd
+**ability cards**:
+- 3x body cards (tbd)
+- 3x mind cards (tbd)
+- 3x soul cards (tbd)
 
 ## Phases
 
@@ -66,7 +74,7 @@ In **any** order, complete **any** number of the following actions:
 - Refresh the market: 1 resource of the specified type *(random on refresh*)
 - Refresh the market: 2 resources of any type
 - Spend resources (health/mana/essence) to purchase the current market card. *(also refreshes the market)*
-- Spend resources (health/mana/essence) to unlock a talent from a skill tree.
+- Spend resources (health/mana/essence) to unlock a talent from a skill tree (mind/body/soul).
   - acquire a new action card
   - unlock a new perk or power
   - upgrade existing perk, power, card
@@ -106,3 +114,11 @@ There are four primary loss conditions:
 - Hollow: Your essence reaches 0.
 
 Additionally, there are many secondary loss conditions that may come into effect under a variety of situations, such as when specific cards are played or specific events are revealed during the Heaven's Whim event phase.
+
+# Aside
+
+- gameplay is for 2+ players
+- balancing around the following gameplay modes:
+  - 2 player (duel)
+  - 8 player (arena)
+  - 100 player (battleground)
