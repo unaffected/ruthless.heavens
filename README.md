@@ -2,9 +2,7 @@
 
 > Design by Cody Mercer (greatgrievance@unaffectedstudios.com)
 >
-> [Google Forms: Feedback Questionnaire](https://docs.google.com/forms/d/e/1FAIpQLSdyGcmuuBagB8EwElJbB-533eofznbSXcKlr3EOMmNa3ENqzQ/viewform?usp=sf_link)
->
-> [Google Forms: Newsletter Signup](https://docs.google.com/forms/d/e/1FAIpQLScIzebse8bOrn0NKNxnDCGuWWWtx6aNhVLFGGhGhGLHjnbong/viewform?usp=sf_link)
+> [Feedback Questionnaire](https://form.jotform.com/231276550905052)
                                                  
 If you could seize power, would you take it? What price would you pay? To what end would you go?
 
