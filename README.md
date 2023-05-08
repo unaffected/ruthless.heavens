@@ -123,7 +123,7 @@ There are also four primary loss conditions:
 - Another player is declared winner.
 - **Death**: Your health reaches 0.
 - **Comatose**: Your mana reaches 0.
-- **Hollow**: Your essence reaches 0.
+- **Hopeless**: Your essence reaches 0.
 
 Additionally, there are both secondary win and loss conditions that may come into play in a variety of situations, such as when specific cards are played or when specific events are revealed during the event phase.
 
