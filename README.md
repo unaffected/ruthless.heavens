@@ -177,7 +177,9 @@ Additionally, there are both secondary win and loss conditions that may come int
 
 # Example Cards
 
-*Note: acquistion and activation costs have been left off of most of these examples.*
+*Note: These examples were created purely to communicate concepts.
+All numerical values should be consider placeholder.
+Acquistion and activation costs are missing from most of these examples.*
 
 ## Talents
 
