@@ -3,6 +3,7 @@
 > Design by Cody Mercer (greatgrievance@unaffectedstudios.com)
 >
 > [Feedback Questionnaire](https://form.jotform.com/231276550905052)
+> 
 > [Join the Discord](https://discord.gg/wPuUgYYAnC)
                                                  
 If you could seize power, would you take it? What price would you pay? To what end would you go?
