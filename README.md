@@ -1,6 +1,6 @@
 # Ruthless Heavens
 
-> Design by Cody Mercer (greatgrievance@unaffectedstudios.com)
+> Design by [GreatGrievance](mailto:greatgrievance@unaffectedstudios.com)
 >
 > [Feedback Questionnaire](https://form.jotform.com/231276550905052)
 > 
